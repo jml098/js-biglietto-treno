@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+}
+
+
+.rounded-topleft {
+    border-top-left-radius: 100%;
+}
+
+
+.rounded-topright {
+    border-top-right-radius: 100%;
+}
+
+
+.rounded-botleft {
+    border-bottom-left-radius: 100%;
+}
+
+
+.rounded-botright {
+    border-bottom-right-radius: 100%;
+}
+
+
+.square-50 {
+    width: 50px;
+    height: 33px;
+}
+
+.border-2 {
+    border-style: 5px solid;
+}
